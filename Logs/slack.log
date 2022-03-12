@@ -1,0 +1,4 @@
+2022-03-09 10:55:28.339|DEBUG|Ranorex.Plugin.CefHost.CefHost+AutCefHost|Start IPC registration...
+2022-03-09 10:55:28.358| INFO|Ranorex.Plugin.CefHost.CefHost+AutCefHost|IPC channel 'Ranorex_Cef_Interface_10360' registered
+2022-03-09 10:55:28.371|DEBUG|Ranorex.Plugin.CefHost.CefHostUtil|CEFHost: Get debugger port from cmd args: '--process-start-args --startup'
+2022-03-09 10:55:28.403|DEBUG|Ranorex.Plugin.CefHost.CefHostUtil|CEFHost: Get debugger port from cmd args: '--process-start-args --startup'

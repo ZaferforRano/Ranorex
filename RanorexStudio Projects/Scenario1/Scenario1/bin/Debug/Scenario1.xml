@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Scenario1</name>
+    </assembly>
+    <members>
+        <member name="T:Scenario1.CloseBrowser">
+             <summary>
+            The CloseBrowser recording.
+             </summary>
+        </member>
+        <member name="F:Scenario1.CloseBrowser.repo">
+            <summary>
+            Holds an instance of the Scenario1Repository repository.
+            </summary>
+        </member>
+        <member name="M:Scenario1.CloseBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Scenario1.CloseBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Scenario1.CloseBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Scenario1.CloseBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Scenario1.CloseBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Scenario1.CloseBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Scenario1.OpenBrowser">
+             <summary>
+            The OpenBrowser recording.
+             </summary>
+        </member>
+        <member name="F:Scenario1.OpenBrowser.repo">
+            <summary>
+            Holds an instance of the Scenario1Repository repository.
+            </summary>
+        </member>
+        <member name="M:Scenario1.OpenBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Scenario1.OpenBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Scenario1.OpenBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Scenario1.OpenBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Scenario1.OpenBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Scenario1.OpenBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Scenario1.Recording1">
+             <summary>
+            The Recording1 recording.
+             </summary>
+        </member>
+        <member name="F:Scenario1.Recording1.repo">
+            <summary>
+            Holds an instance of the Scenario1Repository repository.
+            </summary>
+        </member>
+        <member name="M:Scenario1.Recording1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:Scenario1.Recording1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Scenario1.Recording1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Scenario1.Recording1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Scenario1.Recording1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Recording1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:Scenario1.Scenario1Repository">
+            <summary>
+            The class representing the Scenario1Repository element repository.
+            </summary>
+        </member>
+        <member name="M:Scenario1.Scenario1Repository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1Repository.Instance">
+            <summary>
+            Gets the singleton class instance representing the Scenario1Repository element repository.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1Repository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1Repository.ApplicationUnderTest">
+            <summary>
+            The ApplicationUnderTest folder.
+            </summary>
+        </member>
+        <member name="T:Scenario1.Scenario1RepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:Scenario1.Scenario1RepositoryFolders.ApplicationUnderTestAppFolder">
+            <summary>
+            The ApplicationUnderTestAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:Scenario1.Scenario1RepositoryFolders.ApplicationUnderTestAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ApplicationUnderTest  folder.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.ApplicationUnderTestAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.ApplicationUnderTestAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.ApplicationUnderTestAppFolder.GirişYap">
+            <summary>
+            The GirişYap item.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.ApplicationUnderTestAppFolder.GirişYapInfo">
+            <summary>
+            The GirişYap item info.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.ApplicationUnderTestAppFolder.UEyeOl">
+            <summary>
+            The UEyeOl item.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.ApplicationUnderTestAppFolder.UEyeOlInfo">
+            <summary>
+            The UEyeOl item info.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.ApplicationUnderTestAppFolder.RegisterEmail">
+            <summary>
+            The RegisterEmail item.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.ApplicationUnderTestAppFolder.RegisterEmailInfo">
+            <summary>
+            The RegisterEmail item info.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.ApplicationUnderTestAppFolder.RegisterPasswordInput">
+            <summary>
+            The RegisterPasswordInput item.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.ApplicationUnderTestAppFolder.RegisterPasswordInputInfo">
+            <summary>
+            The RegisterPasswordInput item info.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.ApplicationUnderTestAppFolder.SomeUseTag">
+            <summary>
+            The SomeUseTag item.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.ApplicationUnderTestAppFolder.SomeUseTagInfo">
+            <summary>
+            The SomeUseTag item info.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.ApplicationUnderTestAppFolder.HttpsWwwTrendyolComUyelikcbEqhttps">
+            <summary>
+            The HttpsWwwTrendyolComUyelikcbEqhttps folder.
+            </summary>
+        </member>
+        <member name="T:Scenario1.Scenario1RepositoryFolders.HttpsWwwTrendyolComUyelikcbEqhttpsFolder">
+            <summary>
+            The HttpsWwwTrendyolComUyelikcbEqhttpsFolder folder.
+            </summary>
+        </member>
+        <member name="M:Scenario1.Scenario1RepositoryFolders.HttpsWwwTrendyolComUyelikcbEqhttpsFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new HttpsWwwTrendyolComUyelikcbEqhttps  folder.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.HttpsWwwTrendyolComUyelikcbEqhttpsFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.HttpsWwwTrendyolComUyelikcbEqhttpsFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.HttpsWwwTrendyolComUyelikcbEqhttpsFolder.UEyeOl1">
+            <summary>
+            The UEyeOl1 item.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.HttpsWwwTrendyolComUyelikcbEqhttpsFolder.UEyeOl1Info">
+            <summary>
+            The UEyeOl1 item info.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.HttpsWwwTrendyolComUyelikcbEqhttpsFolder.Kadın">
+            <summary>
+            The Kadın item.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.HttpsWwwTrendyolComUyelikcbEqhttpsFolder.KadınInfo">
+            <summary>
+            The Kadın item info.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.HttpsWwwTrendyolComUyelikcbEqhttpsFolder.Erkek">
+            <summary>
+            The Erkek item.
+            </summary>
+        </member>
+        <member name="P:Scenario1.Scenario1RepositoryFolders.HttpsWwwTrendyolComUyelikcbEqhttpsFolder.ErkekInfo">
+            <summary>
+            The Erkek item info.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>

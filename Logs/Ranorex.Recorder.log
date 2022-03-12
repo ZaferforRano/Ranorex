@@ -1,0 +1,985 @@
+2022-03-09 10:54:06.455|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\Bin\.
+2022-03-09 10:54:06.455| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 10:54:07.178| INFO|Ranorex.Core.ElementEngine|Element engine starting up...
+2022-03-09 10:54:09.523|DEBUG|Ranorex.Core.ElementEngine|Licensing passed.
+2022-03-09 10:54:09.530| INFO|Ranorex.Core.ElementEngine|Element engine started.
+2022-03-09 10:54:09.530| INFO|Ranorex.Core.PluginManager|Loading default plugins...
+2022-03-09 10:54:09.570|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.Win32, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:09.570|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'Win32'...
+2022-03-09 10:54:09.600| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'Win32'.
+2022-03-09 10:54:09.611|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.Delphi, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:09.611|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'Delphi'...
+2022-03-09 10:54:09.611| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'Delphi'.
+2022-03-09 10:54:09.634|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.Msaa, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:09.634|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'MSAA'...
+2022-03-09 10:54:09.634| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'MSAA'.
+2022-03-09 10:54:09.756|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.Web, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:09.756|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'Web'...
+2022-03-09 10:54:09.762| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'Web'.
+2022-03-09 10:54:09.810|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.Wpf, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:09.810|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'WPF'...
+2022-03-09 10:54:09.810|DEBUG|Ranorex.Plugin.WpfPlugin|WpfPlugin initialized.
+2022-03-09 10:54:09.810| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'WPF'.
+2022-03-09 10:54:09.823|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.Wpf.Core, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:09.823|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'WPF.Core'...
+2022-03-09 10:54:09.823| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'WPF.Core'.
+2022-03-09 10:54:09.823|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.Uia, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:09.823|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'UIA'...
+2022-03-09 10:54:09.823| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'UIA'.
+2022-03-09 10:54:09.841|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.WinForms, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:09.841|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'WinForms'...
+2022-03-09 10:54:09.841| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'WinForms'.
+2022-03-09 10:54:09.855|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.WinForms.Core, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:09.855|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'WinForms.Core'...
+2022-03-09 10:54:09.855| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'WinForms.Core'.
+2022-03-09 10:54:09.855|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.ChromeWeb, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:09.855|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'ChromeWeb'...
+2022-03-09 10:54:09.855| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'ChromeWeb'.
+2022-03-09 10:54:09.855|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.FirefoxWeb, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:09.855|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'FirefoxWeb'...
+2022-03-09 10:54:09.855| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'FirefoxWeb'.
+2022-03-09 10:54:09.882|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.Flex, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:09.882|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'Flex'...
+2022-03-09 10:54:09.882| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'Flex'.
+2022-03-09 10:54:09.898|DEBUG|Ranorex.Core.PluginManager|Found 2 plugins in assembly 'Ranorex.Plugin.Office, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:09.898|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'Office'...
+2022-03-09 10:54:09.898| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'Office'.
+2022-03-09 10:54:09.898|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'ExcelDataConnectorPlugin'...
+2022-03-09 10:54:09.898| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'ExcelDataConnectorPlugin'.
+2022-03-09 10:54:09.905|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.RawText, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:09.905|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'RawText'...
+2022-03-09 10:54:09.905| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'RawText'.
+2022-03-09 10:54:10.094|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.Java, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:10.094|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'Java'...
+2022-03-09 10:54:10.094| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'Java'.
+2022-03-09 10:54:10.105|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.Sap, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:10.105|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'SAP'...
+2022-03-09 10:54:10.105| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'SAP'.
+2022-03-09 10:54:10.105|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.Qt, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:10.105|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'Qt'...
+2022-03-09 10:54:10.105| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'Qt'.
+2022-03-09 10:54:10.135|DEBUG|Ranorex.Core.PluginManager|Found 3 plugins in assembly 'Ranorex.Plugin.Mobile, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:10.135|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'Mobile'...
+2022-03-09 10:54:10.135| INFO|Ranorex.Plugin.Mobile.RxIntegration.MobilePlugin|Initializing mobile plugin.
+2022-03-09 10:54:10.136| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'Mobile'.
+2022-03-09 10:54:10.136|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'Mobile.Android.Remote'...
+2022-03-09 10:54:10.136| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'Mobile.Android.Remote'.
+2022-03-09 10:54:10.136|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'Mobile.iOS.Remote'...
+2022-03-09 10:54:10.136| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'Mobile.iOS.Remote'.
+2022-03-09 10:54:10.136|DEBUG|Ranorex.Core.PluginManager|Found 1 plugins in assembly 'Ranorex.Plugin.Cef, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:10.136|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'CEF'...
+2022-03-09 10:54:10.136|DEBUG|Ranorex.Plugin.CefPlugin|CEF Plugin loaded.
+2022-03-09 10:54:10.136| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'CEF'.
+2022-03-09 10:54:10.161|DEBUG|Ranorex.Core.PluginManager|Found 2 plugins in assembly 'Ranorex.Plugin.WebDriver, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b798506b574ebc9a'.
+2022-03-09 10:54:10.161|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'WebDriver'...
+2022-03-09 10:54:10.161| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'WebDriver'.
+2022-03-09 10:54:10.161|DEBUG|Ranorex.Core.PluginManager|Loading plugin 'WebDriver.Remote'...
+2022-03-09 10:54:10.161| INFO|Ranorex.Core.PluginManager|Successfully loaded plugin 'WebDriver.Remote'.
+2022-03-09 10:54:10.161| INFO|Ranorex.Core.PluginManager|Default plugins loaded successfully.
+2022-03-09 10:54:10.161| INFO|Ranorex.Core.PluginManager|Loading plugins from directory 'C:\ProgramData\Ranorex10\Plugins'...
+2022-03-09 10:54:10.161| INFO|Ranorex.Core.PluginManager|Loaded 0 plugins from directory 'C:\ProgramData\Ranorex10\Plugins'.
+2022-03-09 10:54:10.161| INFO|Ranorex.Core.PluginManager|Loading plugins from directory 'C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1'...
+2022-03-09 10:54:10.161| INFO|Ranorex.Core.PluginManager|Loaded 0 plugins from directory 'C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1'.
+2022-03-09 10:54:10.169| INFO|Ranorex.Core.AttributeWeightConfig|Loaded 8 weight rules.
+2022-03-09 10:58:21.140| WARN|Ranorex.Plugin.RanorexToolsFilter|Failed to verify if window 65710 is from a ignored process or a Ranorex tool of the same version: System.Threading.ThreadAbortException: İş parçacığı durduruluyordu.
+   konum: System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   konum: Ranorex.Libs.Threading.ThreadOps.TracedSleep(Int32 millisecondsTimeout)
+   konum: Ranorex.Plugin.CommonControlsFactory.GetRemoteCommonControls(Boolean x86, TechnologyLimitation& limitation)
+   konum: Ranorex.Plugin.CommonControlsFactory.Create(IntPtr hwnd, TechnologyLimitation& limitation)
+   konum: Ranorex.Plugin.MainModuleAssemblyFullNameExtractor.GetWithBitBridgeUncached(IntPtr hwnd, Int32 procId)
+   konum: Ranorex.Plugin.MainModuleAssemblyFullNameExtractor.<>c__DisplayClass6_0.<GetWithBitBridge>b__0(ProcessInfo _)
+   konum: Ranorex.Plugin.MainModuleAssemblyFullNameExtractor.GetWithCache(Int32 procId, Func`2 getMainModuleAssemblyFullNameFunc)
+   konum: Ranorex.Plugin.MainModuleAssemblyFullNameExtractor.GetWithBitBridge(IntPtr hwnd, Int32 procId)
+   konum: Ranorex.Plugin.RanorexToolsFilter.ShouldIgnoreWindow(IntPtr hwnd, IMainModuleAssemblyFullNameExtractor assemblyNameExtractor, Boolean isHellVersion)
+2022-03-09 10:58:23.409| WARN|Ranorex.Plugin.RanorexToolsFilter|Failed to verify if window 65710 is from a ignored process or a Ranorex tool of the same version: System.Threading.ThreadAbortException: İş parçacığı durduruluyordu.
+   konum: Ranorex.Plugin.RemoteCommonControls.Ranorex.Plugin.ICommonControls.GetMainModuleAssemblyFullName(Int32 procId)
+   konum: Ranorex.Plugin.MainModuleAssemblyFullNameExtractor.GetWithBitBridgeUncached(IntPtr hwnd, Int32 procId)
+   konum: Ranorex.Plugin.MainModuleAssemblyFullNameExtractor.<>c__DisplayClass6_0.<GetWithBitBridge>b__0(ProcessInfo _)
+   konum: Ranorex.Plugin.MainModuleAssemblyFullNameExtractor.GetWithCache(Int32 procId, Func`2 getMainModuleAssemblyFullNameFunc)
+   konum: Ranorex.Plugin.MainModuleAssemblyFullNameExtractor.GetWithBitBridge(IntPtr hwnd, Int32 procId)
+   konum: Ranorex.Plugin.RanorexToolsFilter.ShouldIgnoreWindow(IntPtr hwnd, IMainModuleAssemblyFullNameExtractor assemblyNameExtractor, Boolean isHellVersion)
+2022-03-09 10:58:24.677|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Failed to create Chrome DOMs: System.Threading.ThreadAbortException: İş parçacığı durduruluyordu.
+   konum: Ranorex.Core.ElementEngine.ApplyGlueRules(Element element, GlueRuleExecutionStateImpl state, Boolean includeRemotes)
+   konum: Ranorex.Core.ElementEngine.ApplyReplaceGlueRulesOnSingleRecentlyInsertedElement(Element parentElement, GlueRuleExecutionStateImpl state, GlueRuleExecutionStateImpl replaceState, Element recentlyInsertedElement)
+   konum: Ranorex.Core.ElementEngine.ApplyReplaceGlueRulesOnRecentlyInserted(Element element, GlueRuleExecutionStateImpl state)
+   konum: Ranorex.Core.ElementEngine.ApplyGlueRules(Element element, GlueRuleExecutionStateImpl state, Boolean includeRemotes)
+   konum: Ranorex.Core.ElementEngine.ApplyGlueRules(Element element, Boolean includeRemotes)
+   konum: Ranorex.Core.Element.GetChildren(CacheSession session)
+   konum: Ranorex.Core.Element.get_Children()
+   konum: Ranorex.Core.RxPath.collectAxis(LocationStep step, Axis optimizedAxis, Element self, IList`1 elements, Boolean quitOnFirstGoodNode)
+   konum: Ranorex.Core.RxPath.ApplyInternal(RxPath path, Element startElement, Duration timeout, Boolean findSingle, CacheSession& usedCacheSession, PathDiagnostics& pathDiagnostics)
+   konum: Ranorex.Core.RxPath.Apply(Element startElement, Duration timeout, Boolean findSingle, CacheSession& usedCacheSession, PathDiagnostics& pathDiagnostics)
+   konum: Ranorex.Core.Element.TryFindInternal(RxPath path, RxPath robustPath, Duration timeout, Boolean findSingle, IList`1& foundElements, CacheSession& usedCacheSession, Duration& elementSearchTime, Int32& iterations, Boolean& foundWithRobustPath, Boolean useRobustPath)
+   konum: Ranorex.Core.Element.Find(RxPath path, Duration timeout)
+   konum: Ranorex.Core.Element.Find(RxPath path)
+   konum: Ranorex.Plugin.HwndToForm.GetFormForHwnd(IntPtr hwnd)
+   konum: Ranorex.Plugin.ChromeWebFlavor.<>c__DisplayClass21_0.<TabsToFlavorElements>b__0(TabWindowInfo t)
+   konum: System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   konum: System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   konum: System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   konum: Ranorex.Plugin.ChromeWebFlavor.TabsToFlavorElements(BrowserWindow matchedWindow, IntPtr hwnd, IDom proxy)
+   konum: Ranorex.Plugin.ChromeWebFlavor.CreateChromeDoms(IntPtr hwnd, IList`1 flavorElements)
+2022-03-09 10:58:24.677| WARN|Ranorex.Plugin.TopLevelRule|Unexpected exception from toplevel createhandler_multiple: System.Threading.ThreadAbortException: İş parçacığı durduruluyordu.
+   konum: Ranorex.Plugin.ChromeWebFlavor.CreateChromeDoms(IntPtr hwnd, IList`1 flavorElements)
+   konum: Ranorex.Plugin.ChromeWebFlavor.TopLevelRule_CreateMultiple(IntPtr hwnd, IList`1 flavorElements)
+   konum: Ranorex.Plugin.TopLevelRule.Execute(GlueRuleExecutionState state)
+2022-03-09 10:58:25.410| INFO|Ranorex.Plugin.WpfFlavor|start WPF injection into process 'LogiOverlay', pid 7888
+2022-03-09 10:58:25.497| INFO|Ranorex.Plugin.WpfFlavor|successfully injected WPF into process 'LogiOverlay', pid 7888
+2022-03-09 10:58:25.715| WARN|Ranorex.Plugin.TopLevelRule|Unexpected exception from toplevel createhandler_multiple: System.Threading.ThreadAbortException: İş parçacığı durduruluyordu.
+   konum: Ranorex.Plugin.ChromeWebFlavor.CreateChromeDoms(IntPtr hwnd, IList`1 flavorElements)
+   konum: Ranorex.Plugin.ChromeWebFlavor.TopLevelRule_CreateMultiple(IntPtr hwnd, IList`1 flavorElements)
+   konum: Ranorex.Plugin.TopLevelRule.Execute(GlueRuleExecutionState state)
+2022-03-09 10:58:26.349|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.349|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.349|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.349|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.349|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.349|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.349|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.349|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.349|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.349|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.766|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.766|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.766|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.766|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.766|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.766|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.766|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.766|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.766|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.766|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.813|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.813|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.813|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.813|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.813|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.813|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.813|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.813|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.813|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:26.813|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:27.338|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:27.338|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:27.338|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:27.338|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:27.338|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:27.338|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:27.338|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:27.338|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:27.338|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:27.338|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:29.781|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:29.781|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:29.781|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:29.781|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:29.781|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:29.781|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:29.781|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:29.781|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:29.781|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:29.781|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.203|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.203|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.203|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.203|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.203|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.203|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.203|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.203|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.203|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.203|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.697|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.697|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.697|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.697|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.697|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.697|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.697|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.697|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.697|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.697|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.777|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.777|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.777|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.777|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.777|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.777|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.777|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.777|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.777|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:32.777|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:34.009|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:34.009|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:34.009|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:34.009|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:34.009|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:34.009|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:34.009|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:34.009|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:34.009|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:34.009|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:35.112|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:35.112|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:35.112|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:35.112|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:35.112|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:35.112|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:35.112|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:35.112|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:35.112|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:35.112|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 10:58:35.144| WARN|Ranorex.Plugin.TopLevelRule|Unexpected exception from toplevel createhandler_multiple: System.Threading.ThreadAbortException: İş parçacığı durduruluyordu.
+   konum: SendMessageTimeoutW(HWND__* , UInt32 , UInt32 , Int32 , UInt32 , UInt32 , UInt32* )
+   konum: GetWindowTextInternal(IntPtr hWnd, Int32 bufSize)
+   konum: Ranorex.Core.WinApi.Win32.GetWindowText(IntPtr hWnd)
+   konum: Ranorex.Plugin.Win32Window.MatchesEndingRootWindowText(IntPtr hwnd, String[] targetWindowTexts)
+   konum: Ranorex.Plugin.ChromeWebFlavor.IsChromeWin32Window(IntPtr hwnd)
+   konum: Ranorex.Plugin.ChromeWebFlavor.CreateChromeDoms(IntPtr hwnd, IList`1 flavorElements)
+   konum: Ranorex.Plugin.ChromeWebFlavor.TopLevelRule_CreateMultiple(IntPtr hwnd, IList`1 flavorElements)
+   konum: Ranorex.Plugin.TopLevelRule.Execute(GlueRuleExecutionState state)
+2022-03-09 10:58:37.383|DEBUG|Ranorex.Controls.ItemRecorder|EnableImageBasedTracking = false
+2022-03-09 10:58:45.104|DEBUG|Ranorex.Controls.ItemRecorder|EnableImageBasedTracking = false
+2022-03-09 11:02:56.493|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:56.493|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:56.493|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:56.493|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:56.493|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:56.493|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:56.493|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:56.493|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:56.493|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:56.493|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:56.493|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.460|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.460|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.460|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.460|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.460|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.460|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.460|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.460|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.460|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.460|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.460|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.538|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.538|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.538|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.538|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.538|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.538|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.538|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.538|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.538|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.538|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:58.538|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.358|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.358|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.358|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.358|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.358|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.358|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.358|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.358|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.358|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.358|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.358|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.445|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.445|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.445|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.445|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.445|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.445|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.445|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.445|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.445|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.445|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:02:59.445|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:01.166|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:01.166| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:01.194|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:01.194|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:01.194|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:01.194|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:01.194|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:01.194|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:01.194|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:01.194|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:01.194|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:01.194|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:01.194|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:01.701|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:01.701| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:01.723|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:01.723| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:01.723|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:01.723| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:01.732|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:01.732| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:01.732|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:01.732| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:01.775|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:01.775| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:01.818|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:01.818| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.412|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.412| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.417|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.417| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.417|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.417| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.417|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.417| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.434|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.434| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.459|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.459| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.464|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.464| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.464|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.464| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.464|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.464| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.495|DEBUG|Ranorex.Report|Plugins: Getting attribute 'pressed' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.495| INFO|Ranorex.Report|Getting attribute 'pressed' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.495|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.495| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.558|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.558| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.558|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.558| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.558|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.558| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.572|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.572| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.572|DEBUG|Ranorex.Report|Plugins: Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. Verilen anahtar sözlükte yoktu.
+2022-03-09 11:03:02.572| INFO|Ranorex.Report|Getting attribute 'text' failed on FlavorElement with flavor 'chromeweb'. System.Collections.Generic.KeyNotFoundException: Verilen anahtar sözlükte yoktu.
+
+Server stack trace: 
+   konum: System.ThrowHelper.ThrowKeyNotFoundException()
+   konum: System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   konum: Ranorex.Plugin.MsgHostDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   konum: System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   konum: System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   konum: System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   konum: Ranorex.Plugin.IDom.GetElementStyle(Int32 wndId, Int32 tabId, Int64 frameId, NpPtr elemId, String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetStyleAttribute(String name)
+   konum: Ranorex.Plugin.ChromeWebFlavorElement.GetAttributeValue(Element element, String name)
+   konum: Ranorex.Core.Element.GetAttributeValue(String name)
+2022-03-09 11:03:02.667|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.667|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.667|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.667|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.667|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.667|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.667|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.667|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.667|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.667|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.667|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.731|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.731|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.731|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.731|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.731|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.731|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.731|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.731|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.731|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.731|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:02.731|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.874|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.874|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.874|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.874|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.874|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.874|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.874|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.874|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.874|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.874|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.874|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.984|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.984|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.984|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.984|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.984|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.984|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.984|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.984|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.984|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.984|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:03.984|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.071|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.071|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.071|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.071|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.071|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.071|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.071|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.071|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.071|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.071|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.071|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.190|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.190|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.190|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.190|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.190|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.190|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.190|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.190|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.190|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.190|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.190|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.319|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.319|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.319|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.319|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.319|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.319|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.319|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.319|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.319|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.319|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.319|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.441|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.441|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.441|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.441|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.441|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.441|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.441|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.441|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.441|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.441|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.441|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.559|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.559|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.559|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.559|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.559|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.559|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.559|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.559|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.559|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.559|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.559|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.652|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.652|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.652|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.652|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.652|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.652|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.652|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.652|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.652|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.652|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.652|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.729|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.729|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.729|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.729|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.729|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.729|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.729|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.729|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.729|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.729|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.729|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.808|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.808|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.808|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.808|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.808|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.808|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.808|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.808|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.808|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.808|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.808|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.902|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.902|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.902|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.902|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.902|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.902|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.902|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.902|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.902|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.902|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.902|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.982|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.982|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.982|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.982|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.982|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.982|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.982|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.982|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.982|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.982|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:04.982|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.074|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.074|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.074|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.074|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.074|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.074|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.074|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.074|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.074|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.074|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.074|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.169|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.169|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.169|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.169|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.169|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.169|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.169|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.169|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.169|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.169|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.169|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.279|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.279|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.279|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.279|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.279|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.279|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.279|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.279|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.279|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.279|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.279|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.402|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.402|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.402|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.402|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.402|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.402|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.402|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.402|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.402|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.402|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.402|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.510|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.510|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.510|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.510|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.510|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.510|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.510|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.510|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.510|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.510|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.510|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.619|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.619|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.619|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.619|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.619|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.619|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.619|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.619|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.619|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.619|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.619|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.699|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.699|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.699|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.699|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.699|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.699|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.699|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.699|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.699|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.699|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.699|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.792|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.792|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.792|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.792|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.792|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.792|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.792|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.792|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.792|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.792|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.792|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.916|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.916|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.916|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.916|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.916|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.916|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.916|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.916|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.916|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.916|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:05.916|DEBUG|Ranorex.Plugin.ChromeWebFlavor|Add dom for: 329938
+2022-03-09 11:03:06.679| WARN|Ranorex.Plugin.Win32FlavorElement|FromHandle failed for handle '3671586'. System.Threading.ThreadAbortException: İş parçacığı durduruluyordu.
+   konum: MS.Internal.Automation.UiaCoreApi.OnGetProvider(IntPtr hwnd, ProviderType providerType)
+   konum: MS.Internal.Automation.UiaCoreApi.RawUiaNodeFromHandle(IntPtr hwnd, SafeNodeHandle& hnode)
+   konum: MS.Internal.Automation.UiaCoreApi.UiaNodeFromHandle(IntPtr hwnd)
+   konum: System.Windows.Automation.AutomationElement.FromHandle(IntPtr hwnd)
+   konum: Ranorex.Plugin.Win32FlavorElement.UiaElementFromHandle(IntPtr handle, Boolean checkMsgProcessing)
+2022-03-09 11:03:08.240|DEBUG|Ranorex.Controls.ItemRecorder|EnableImageBasedTracking = false
+2022-03-09 11:03:12.409|DEBUG|Ranorex.Controls.ItemRecorder|EnableImageBasedTracking = false
+2022-03-09 11:04:48.247| WARN|Ranorex.Controls.ItemRecorder|HideListViewItemEditors failed
+System.InvalidOperationException: Pencere işleyicisi oluşturuluncaya kadar denetim üzerinde Invoke veya BeginInvoke çağrılamaz.
+   konum: System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   konum: System.Windows.Forms.Control.BeginInvoke(Delegate method, Object[] args)
+   konum: Ranorex.Controls.ItemRecorder.HideListViewItemEditorsInternal(Boolean commit)
+   konum: Ranorex.Controls.ItemRecorder.HideListViewItemEditors(Boolean commit)
+   konum: Ranorex.Controls.ItemRecorder.PreDisposeCleanup()

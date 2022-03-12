@@ -1,0 +1,691 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="44.13s"
+		durationms="44126"
+		type="root"
+		rid="5a2445f8650a538"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="1"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="1"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="1"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="Zafer(Dad)"
+		rxversion="10.1.6.0"
+		host="DESKTOP-BT9AJDK"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="tr-TR"
+		dtnlanguage="tr-TR"
+		screenresolution="3520x1080"
+		timestamp="11.03.2022 12:14:23"
+		timestampiso="2022-03-11T09:14:23"
+		endtime="11.03.2022 12:15:08"
+		timeoutfactor="1"
+		runid=""
+		sutversion="">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<activity
+			result="Success"
+			duration="35s"
+			durationms="34996"
+			type="test-suite"
+			rid="12f4dbf1926951c8"
+			totalerrorcount="0"
+			totalwarningcount="0"
+			totalsuccesstestcasecount="1"
+			totalfailedtestcasecount="0"
+			totalblockedtestcasecount="0"
+			childsuccesscount="1"
+			childfailedcount="0"
+			childblockedcount="0"
+			totalsuccesscount="1"
+			totalfailedcount="0"
+			totalblockedcount="0"
+			totalmaintenancemodecount="0"
+			testsuitename="Scenario2"
+			headertext="Scenario2"
+			runconfigname="TestRun"
+			runlabel="">
+			<params>
+			</params>
+			<activity
+				result="Success"
+				duration="34.88s"
+				durationms="34881"
+				type="test-case"
+				rid="26588bc44c01f74b"
+				totalerrorcount="0"
+				totalwarningcount="0"
+				totalsuccesstestcasecount="1"
+				totalfailedtestcasecount="0"
+				totalblockedtestcasecount="0"
+				childsuccesscount="3"
+				childfailedcount="0"
+				childblockedcount="0"
+				totalsuccesscount="1"
+				totalfailedcount="0"
+				totalblockedcount="0"
+				totalmaintenancemodecount="0"
+				testcontainername="TestCase"
+				testcontainerid="cbb9e02c-20bb-489b-a4d4-6c87ebbf2c83"
+				headertext="TestCase"
+				displayName="TestCase"
+				iteration="1"
+				activity-exectype="execute"
+				conditionstate="none">
+				<activity
+					result="Success"
+					duration="1.38s"
+					durationms="1378"
+					type="setup-container"
+					rid="6ba7b367e5e9e77"
+					totalerrorcount="0"
+					totalwarningcount="0"
+					totalsuccesstestcasecount="0"
+					totalfailedtestcasecount="0"
+					totalblockedtestcasecount="0"
+					childsuccesscount="1"
+					childfailedcount="0"
+					childblockedcount="0"
+					totalsuccesscount="0"
+					totalfailedcount="0"
+					totalblockedcount="0"
+					totalmaintenancemodecount="0">
+					<activity
+						result="Success"
+						duration="1.33s"
+						durationms="1331"
+						type="test-module"
+						rid="53730691d4c1bd8"
+						totalerrorcount="0"
+						totalwarningcount="0"
+						totalsuccesstestcasecount="0"
+						totalfailedtestcasecount="0"
+						totalblockedtestcasecount="0"
+						childsuccesscount="0"
+						childfailedcount="0"
+						childblockedcount="0"
+						totalsuccesscount="0"
+						totalfailedcount="0"
+						totalblockedcount="0"
+						totalmaintenancemodecount="0"
+						modulename="OpenBrowser"
+						displayName="OpenBrowser"
+						moduleid="d39dcdee-f7e4-42a0-917e-d429c94d568c"
+						moduletype="Recording"
+						iteration="1"
+						activity-exectype="execute"
+						testentry-activity-type="testmodule">
+						<varbindings>
+						</varbindings>
+						<item
+							timeRelativeToTestSuiteStartTime="00:00.184"
+							timeRelativeToTestModuleStartTime="00:00.027"
+							timeWallClock="12:14:33"
+							time="00:00.184"
+							level="Info"
+							category="Website">
+							<message>
+								Opening web site 'https://www.trendyol.com' with browser 'chrome' in maximized mode.
+							</message>
+							<metainfo
+								itemindex="0"
+								codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\OpenBrowser.cs"
+								codeline="82"
+								loglvl="Info">
+							</metainfo>
+						</item>
+					</activity>
+				</activity>
+				<activity
+					result="Success"
+					duration="32.61s"
+					durationms="32609"
+					type="test-module"
+					rid="45d3ae49b29addf"
+					totalerrorcount="0"
+					totalwarningcount="0"
+					totalsuccesstestcasecount="0"
+					totalfailedtestcasecount="0"
+					totalblockedtestcasecount="0"
+					childsuccesscount="0"
+					childfailedcount="0"
+					childblockedcount="0"
+					totalsuccesscount="0"
+					totalfailedcount="0"
+					totalblockedcount="0"
+					totalmaintenancemodecount="0"
+					modulename="Recording1"
+					displayName="Recording1"
+					moduleid="bbbd4f98-cebe-4371-aaf3-7f44a561ac64"
+					moduletype="Recording"
+					iteration="1"
+					activity-exectype="execute"
+					testentry-activity-type="testmodule">
+					<varbindings>
+					</varbindings>
+					<item
+						timeRelativeToTestSuiteStartTime="00:01.542"
+						timeRelativeToTestModuleStartTime="00:00.040"
+						timeWallClock="12:14:34"
+						time="00:01.542"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'ApplicationUnderTest.GirişYap' at 16;6.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//div[#'account-navigation-container']/div/div[1]/?/?/p[@innertext='Giriş Yap']"
+							itempath=".//div[#'account-navigation-container']/div/div[1]/?/?/p[@innertext='Giriş Yap']"
+							fullname="Scenario2Repository.ApplicationUnderTest.GirişYap"
+							id="7c5a8dd8f0c0467ba5c15ae813a5d1b3"
+							timeout="60000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="82"
+							itemindex="0"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:10.800"
+						timeRelativeToTestModuleStartTime="00:09.298"
+						timeWallClock="12:14:43"
+						time="00:10.800"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'ApplicationUnderTest.LoginRegister.UEyeOl1' at 19;9.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//div[#'login-register']/div[2]/div/button[2]/span[@innertext='Üye Ol']"
+							itempath="div[2]/div/button[2]/span[@innertext='Üye Ol']"
+							fullname="Scenario2Repository.ApplicationUnderTest.LoginRegister.UEyeOl1"
+							id="61be7d93e04e4a5daea7c586696400c1"
+							timeout="90000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="86"
+							itemindex="1"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:14.156"
+						timeRelativeToTestModuleStartTime="00:12.654"
+						timeWallClock="12:14:47"
+						time="00:14.156"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'ApplicationUnderTest.LoginRegister.UEyeOl' at 21;7.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//div[#'login-register']//form[@action='https://www.trendyol.com/uyelik?cb=https%3A%2F%2Fwww.trendyol.com%2F']/?/?/span[@innertext='Üye Ol']"
+							itempath=".//form[@action='https://www.trendyol.com/uyelik?cb=https%3A%2F%2Fwww.trendyol.com%2F']/?/?/span[@innertext='Üye Ol']"
+							fullname="Scenario2Repository.ApplicationUnderTest.LoginRegister.UEyeOl"
+							id="1c5cc015de114a64a760f33ee7ac3044"
+							timeout="90000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="90"
+							itemindex="2"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:15.986"
+						timeRelativeToTestModuleStartTime="00:14.484"
+						timeWallClock="12:14:48"
+						time="00:15.986"
+						level="Info"
+						category="Validation">
+						<message>
+							Validating Exists on item 'ApplicationUnderTest.EPostaVeŞifreniziGiriniz'.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//div[#'error-box-wrapper']/span[@innertext>'E-posta ve şifrenizi giri']"
+							itempath=".//div[#'error-box-wrapper']/span[@innertext>'E-posta ve şifrenizi giri']"
+							fullname="Scenario2Repository.ApplicationUnderTest.EPostaVeŞifreniziGiriniz"
+							id="8caf4e89331b40f1b1aff852de4df8a6"
+							timeout="60000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="94"
+							itemindex="3"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:16.937"
+						timeRelativeToTestModuleStartTime="00:15.435"
+						timeWallClock="12:14:49"
+						time="00:16.937"
+						level="Success"
+						category="Validation">
+						<message>
+							Element for item 'EPostaVeŞifreniziGiriniz' does exist.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//div[#'error-box-wrapper']/span[@innertext>'E-posta ve şifrenizi giri']"
+							itempath=".//div[#'error-box-wrapper']/span[@innertext>'E-posta ve şifrenizi giri']"
+							fullname="Scenario2Repository.ApplicationUnderTest.EPostaVeŞifreniziGiriniz"
+							id="8caf4e89331b40f1b1aff852de4df8a6"
+							timeout="60000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="95"
+							loglvl="Success"
+							itemindex="3">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:17.109"
+						timeRelativeToTestModuleStartTime="00:15.607"
+						timeWallClock="12:14:50"
+						time="00:17.109"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'ApplicationUnderTest.RegisterEmail' at 32;18.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//input[#'register-email']"
+							itempath=".//input[#'register-email']"
+							fullname="Scenario2Repository.ApplicationUnderTest.RegisterEmail"
+							id="0f474c437e174e36ae7f2293d865240a"
+							timeout="60000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="98"
+							itemindex="4"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:18.520"
+						timeRelativeToTestModuleStartTime="00:17.018"
+						timeWallClock="12:14:51"
+						time="00:18.520"
+						level="Info"
+						category="Keyboard">
+						<message>
+							Key sequence 'zafercakar77{RMenu down}{LControlKey down}{Qkey}{LControlKey up}{RMenu up}{LControlKey up}gmail.com' with focus on 'ApplicationUnderTest.RegisterEmail'.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//input[#'register-email']"
+							itempath=".//input[#'register-email']"
+							fullname="Scenario2Repository.ApplicationUnderTest.RegisterEmail"
+							id="0f474c437e174e36ae7f2293d865240a"
+							timeout="60000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="102"
+							itemindex="5"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:20.177"
+						timeRelativeToTestModuleStartTime="00:18.675"
+						timeWallClock="12:14:53"
+						time="00:20.177"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'ApplicationUnderTest.LoginRegister.TyCheck' at 6;4.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//div[#'login-register']/div[3]/?/?/form[@action='https://www.trendyol.com/uyelik?cb=https%3A%2F%2Fwww.trendyol.com%2F']/div[6]//svg"
+							itempath="div[3]/?/?/form[@action='https://www.trendyol.com/uyelik?cb=https%3A%2F%2Fwww.trendyol.com%2F']/div[6]//svg"
+							fullname="Scenario2Repository.ApplicationUnderTest.LoginRegister.TyCheck"
+							id="8a00c502833b4475bb4299d76cdd314a"
+							timeout="90000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="106"
+							itemindex="6"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:21.711"
+						timeRelativeToTestModuleStartTime="00:20.209"
+						timeWallClock="12:14:54"
+						time="00:21.711"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'ApplicationUnderTest.LoginRegister.UEyeOl' at 22;8.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//div[#'login-register']//form[@action='https://www.trendyol.com/uyelik?cb=https%3A%2F%2Fwww.trendyol.com%2F']/?/?/span[@innertext='Üye Ol']"
+							itempath=".//form[@action='https://www.trendyol.com/uyelik?cb=https%3A%2F%2Fwww.trendyol.com%2F']/?/?/span[@innertext='Üye Ol']"
+							fullname="Scenario2Repository.ApplicationUnderTest.LoginRegister.UEyeOl"
+							id="1c5cc015de114a64a760f33ee7ac3044"
+							timeout="90000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="110"
+							itemindex="7"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:23.260"
+						timeRelativeToTestModuleStartTime="00:21.758"
+						timeWallClock="12:14:56"
+						time="00:23.260"
+						level="Info"
+						category="Validation">
+						<message>
+							Validating Exists on item 'ApplicationUnderTest.BuEPostaAdresiKullanılamazLuetfen'.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//div[#'error-box-wrapper']/span[@innertext>'Bu e-posta adresi kullanılamaz.']"
+							itempath=".//div[#'error-box-wrapper']/span[@innertext>'Bu e-posta adresi kullanılamaz.']"
+							fullname="Scenario2Repository.ApplicationUnderTest.BuEPostaAdresiKullanılamazLuetfen"
+							id="a222015521ff4f0a86d2af23116702e9"
+							timeout="60000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="114"
+							itemindex="8"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:24.086"
+						timeRelativeToTestModuleStartTime="00:22.584"
+						timeWallClock="12:14:57"
+						time="00:24.086"
+						level="Success"
+						category="Validation">
+						<message>
+							Element for item 'BuEPostaAdresiKullanılamazLuetfen' does exist.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//div[#'error-box-wrapper']/span[@innertext>'Bu e-posta adresi kullanılamaz.']"
+							itempath=".//div[#'error-box-wrapper']/span[@innertext>'Bu e-posta adresi kullanılamaz.']"
+							fullname="Scenario2Repository.ApplicationUnderTest.BuEPostaAdresiKullanılamazLuetfen"
+							id="a222015521ff4f0a86d2af23116702e9"
+							timeout="60000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="115"
+							loglvl="Success"
+							itemindex="8">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:24.257"
+						timeRelativeToTestModuleStartTime="00:22.755"
+						timeWallClock="12:14:57"
+						time="00:24.257"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'ApplicationUnderTest.RegisterEmail' at 182;21.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//input[#'register-email']"
+							itempath=".//input[#'register-email']"
+							fullname="Scenario2Repository.ApplicationUnderTest.RegisterEmail"
+							id="0f474c437e174e36ae7f2293d865240a"
+							timeout="60000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="118"
+							itemindex="9"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:25.617"
+						timeRelativeToTestModuleStartTime="00:24.115"
+						timeWallClock="12:14:58"
+						time="00:25.617"
+						level="Info"
+						category="Keyboard">
+						<message>
+							Key sequence '{Back 25}' with focus on 'ApplicationUnderTest.RegisterEmail'.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//input[#'register-email']"
+							itempath=".//input[#'register-email']"
+							fullname="Scenario2Repository.ApplicationUnderTest.RegisterEmail"
+							id="0f474c437e174e36ae7f2293d865240a"
+							timeout="60000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="122"
+							itemindex="10"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:27.131"
+						timeRelativeToTestModuleStartTime="00:25.629"
+						timeWallClock="12:15:00"
+						time="00:27.131"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'ApplicationUnderTest.RegisterPasswordInput' at 71;26.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//input[#'register-password-input']"
+							itempath=".//input[#'register-password-input']"
+							fullname="Scenario2Repository.ApplicationUnderTest.RegisterPasswordInput"
+							id="d071700df8ed42ffa0cfee47f5f25ee0"
+							timeout="60000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="126"
+							itemindex="11"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:28.524"
+						timeRelativeToTestModuleStartTime="00:27.022"
+						timeWallClock="12:15:01"
+						time="00:28.524"
+						level="Info"
+						category="Keyboard">
+						<message>
+							Key sequence '460219Az' with focus on 'ApplicationUnderTest.RegisterPasswordInput'.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//input[#'register-password-input']"
+							itempath=".//input[#'register-password-input']"
+							fullname="Scenario2Repository.ApplicationUnderTest.RegisterPasswordInput"
+							id="d071700df8ed42ffa0cfee47f5f25ee0"
+							timeout="60000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="130"
+							itemindex="12"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:29.722"
+						timeRelativeToTestModuleStartTime="00:28.220"
+						timeWallClock="12:15:02"
+						time="00:29.722"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'ApplicationUnderTest.LoginRegister.Fill1' at 3;5.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//div[#'login-register']/div[3]/div[1]/form[@action='https://www.trendyol.com/uyelik?cb=https%3A%2F%2Fwww.trendyol.com%2F']/div[6]/div/div[1]//use[@id='Fill-1']"
+							itempath="div[3]/div[1]/form[@action='https://www.trendyol.com/uyelik?cb=https%3A%2F%2Fwww.trendyol.com%2F']/div[6]/div/div[1]//use[@id='Fill-1']"
+							fullname="Scenario2Repository.ApplicationUnderTest.LoginRegister.Fill1"
+							id="593ff849dc524c9ea714f4f0e88f84b2"
+							timeout="90000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="134"
+							itemindex="13"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:31.513"
+						timeRelativeToTestModuleStartTime="00:30.011"
+						timeWallClock="12:15:04"
+						time="00:31.513"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'ApplicationUnderTest.LoginRegister.QButtonQButtonMediumQFluidQPrima' at 92;30.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//div[#'login-register']//form[@action='https://www.trendyol.com/uyelik?cb=https%3A%2F%2Fwww.trendyol.com%2F']/button"
+							itempath=".//form[@action='https://www.trendyol.com/uyelik?cb=https%3A%2F%2Fwww.trendyol.com%2F']/button"
+							fullname="Scenario2Repository.ApplicationUnderTest.LoginRegister.QButtonQButtonMediumQFluidQPrima"
+							id="a4a86c8eed834873a7a0404cc3db45cb"
+							timeout="90000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="138"
+							itemindex="14"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:33.029"
+						timeRelativeToTestModuleStartTime="00:31.527"
+						timeWallClock="12:15:06"
+						time="00:33.029"
+						level="Info"
+						category="Validation">
+						<message>
+							Validating Exists on item 'ApplicationUnderTest.EPostaVeŞifreniziGiriniz'.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//div[#'error-box-wrapper']/span[@innertext>'E-posta ve şifrenizi giri']"
+							itempath=".//div[#'error-box-wrapper']/span[@innertext>'E-posta ve şifrenizi giri']"
+							fullname="Scenario2Repository.ApplicationUnderTest.EPostaVeŞifreniziGiriniz"
+							id="8caf4e89331b40f1b1aff852de4df8a6"
+							timeout="60000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="142"
+							itemindex="15"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:33.939"
+						timeRelativeToTestModuleStartTime="00:32.437"
+						timeWallClock="12:15:06"
+						time="00:33.939"
+						level="Success"
+						category="Validation">
+						<message>
+							Element for item 'EPostaVeŞifreniziGiriniz' does exist.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/dom[@domain='www.trendyol.com']//div[#'error-box-wrapper']/span[@innertext>'E-posta ve şifrenizi giri']"
+							itempath=".//div[#'error-box-wrapper']/span[@innertext>'E-posta ve şifrenizi giri']"
+							fullname="Scenario2Repository.ApplicationUnderTest.EPostaVeŞifreniziGiriniz"
+							id="8caf4e89331b40f1b1aff852de4df8a6"
+							timeout="60000"
+							codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\Recording1.cs"
+							codeline="143"
+							loglvl="Success"
+							itemindex="15">
+						</metainfo>
+					</item>
+				</activity>
+				<activity
+					result="Success"
+					duration="876ms"
+					durationms="876"
+					type="teardown-container"
+					rid="ac4e67ac2d8d8a6"
+					totalerrorcount="0"
+					totalwarningcount="0"
+					totalsuccesstestcasecount="0"
+					totalfailedtestcasecount="0"
+					totalblockedtestcasecount="0"
+					childsuccesscount="1"
+					childfailedcount="0"
+					childblockedcount="0"
+					totalsuccesscount="0"
+					totalfailedcount="0"
+					totalblockedcount="0"
+					totalmaintenancemodecount="0">
+					<activity
+						result="Success"
+						duration="871ms"
+						durationms="871"
+						type="test-module"
+						rid="1380332e4cc6b222"
+						totalerrorcount="0"
+						totalwarningcount="0"
+						totalsuccesstestcasecount="0"
+						totalfailedtestcasecount="0"
+						totalblockedtestcasecount="0"
+						childsuccesscount="0"
+						childfailedcount="0"
+						childblockedcount="0"
+						totalsuccesscount="0"
+						totalfailedcount="0"
+						totalblockedcount="0"
+						totalmaintenancemodecount="0"
+						modulename="CloseBrowser"
+						displayName="CloseBrowser"
+						moduleid="f631dce5-4a49-4645-a7f9-ca7ef67cec2a"
+						moduletype="Recording"
+						iteration="1"
+						activity-exectype="execute"
+						testentry-activity-type="testmodule">
+						<varbindings>
+						</varbindings>
+						<item
+							timeRelativeToTestSuiteStartTime="00:34.118"
+							timeRelativeToTestModuleStartTime="00:00.003"
+							timeWallClock="12:15:07"
+							time="00:34.118"
+							level="Info"
+							category="Application">
+							<message>
+								Closing application containing item 'ApplicationUnderTest'.
+							</message>
+							<metainfo
+								type="repoitem"
+								path="/dom[@domain='www.trendyol.com']"
+								itempath="/dom[@domain='www.trendyol.com']"
+								fullname="Scenario2Repository.ApplicationUnderTest.Self"
+								id="a7b0b72813034525a159c5a08ffbb2ef"
+								timeout="30000"
+								codefile="c:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\CloseBrowser.cs"
+								codeline="82"
+								itemindex="0"
+								loglvl="Info">
+							</metainfo>
+						</item>
+					</activity>
+				</activity>
+			</activity>
+		</activity>
+	</activity>
+</report>

@@ -1,0 +1,584 @@
+2022-03-08 12:45:59.933|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-08 12:45:59.933| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-08 12:45:59.933|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\bin\Debug\.
+2022-03-08 12:45:59.933| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\bin\Debug\Ranorex.rxsettings
+2022-03-08 12:48:51.600|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-08 12:48:51.614| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-08 12:48:51.614|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\bin\Debug\.
+2022-03-08 12:48:51.614| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\bin\Debug\Ranorex.rxsettings
+2022-03-08 16:08:44.207|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-08 16:08:44.207| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-08 16:08:44.216|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\MyTest2\MyTest2\bin\Debug\.
+2022-03-08 16:08:44.216| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\MyTest2\MyTest2\bin\Debug\Ranorex.rxsettings
+2022-03-08 16:10:23.902|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-08 16:10:23.902| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-08 16:10:23.902|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\MyTest2\MyTest2\bin\Debug\.
+2022-03-08 16:10:23.902| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\MyTest2\MyTest2\bin\Debug\Ranorex.rxsettings
+2022-03-08 16:11:57.077|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-08 16:11:57.077| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-08 16:11:57.090|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\MyTest2\MyTest2\bin\Debug\.
+2022-03-08 16:11:57.090| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\MyTest2\MyTest2\bin\Debug\Ranorex.rxsettings
+2022-03-08 16:14:12.858|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-08 16:14:12.858| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-08 16:14:12.871|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\MyTest2\MyTest2\bin\Debug\.
+2022-03-08 16:14:12.871| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\MyTest2\MyTest2\bin\Debug\Ranorex.rxsettings
+2022-03-08 17:11:54.810|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-08 17:11:54.810| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-08 17:11:54.810|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\zafe\zafe\bin\Debug\.
+2022-03-08 17:11:54.810| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\zafe\zafe\bin\Debug\Ranorex.rxsettings
+2022-03-08 17:26:05.003|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-08 17:26:05.023| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-08 17:26:05.034|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\zafe\zafe\bin\Debug\.
+2022-03-08 17:26:05.034| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\zafe\zafe\bin\Debug\Ranorex.rxsettings
+2022-03-08 17:29:13.055|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-08 17:29:13.064| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-08 17:29:13.064|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\zafe\zafe\bin\Debug\.
+2022-03-08 17:29:13.064| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\zafe\zafe\bin\Debug\Ranorex.rxsettings
+2022-03-08 19:20:20.158|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-08 19:20:20.167| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-08 19:20:20.167|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\son\son\bin\Debug\.
+2022-03-08 19:20:20.167| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\son\son\bin\Debug\Ranorex.rxsettings
+2022-03-08 19:26:07.666|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-08 19:26:07.679| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-08 19:26:07.683|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-08 19:26:07.683| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\Ranorex.rxsettings
+2022-03-08 19:27:21.623|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-08 19:27:21.623| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-08 19:27:21.636|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-08 19:27:21.636| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\Ranorex.rxsettings
+2022-03-08 19:38:50.791|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-08 19:38:50.802| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-08 19:38:50.802|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-08 19:38:50.802| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\Ranorex.rxsettings
+2022-03-09 11:54:11.034|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 11:54:11.047| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 11:54:11.047|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-09 11:54:11.047| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\Ranorex.rxsettings
+2022-03-09 11:57:05.681|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 11:57:05.695| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 11:57:05.699|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-09 11:57:05.699| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\Ranorex.rxsettings
+2022-03-09 12:05:48.486|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 12:05:48.498| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 12:05:48.498|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-09 12:05:48.498| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\Ranorex.rxsettings
+2022-03-09 12:14:13.702|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 12:14:13.702| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 12:14:13.702|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-09 12:14:13.702| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\Ranorex.rxsettings
+2022-03-09 12:18:18.795|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 12:18:18.795| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 12:18:18.808|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-09 12:18:18.808| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\Ranorex.rxsettings
+2022-03-09 12:40:26.169|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 12:40:26.169| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 12:40:26.169|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-09 12:40:26.169| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\Ranorex.rxsettings
+2022-03-09 15:52:16.551|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 15:52:16.562| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 15:52:16.562|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\enyeni\enyeni\bin\Debug\.
+2022-03-09 15:52:16.562| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\enyeni\enyeni\bin\Debug\Ranorex.rxsettings
+2022-03-09 15:54:12.330|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 15:54:12.341| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 15:54:12.341|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\enyeni\enyeni\bin\Debug\.
+2022-03-09 15:54:12.341| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\enyeni\enyeni\bin\Debug\Ranorex.rxsettings
+2022-03-09 15:57:03.738|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 15:57:03.744| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 15:57:03.744|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\enyeni\enyeni\bin\Debug\.
+2022-03-09 15:57:03.744| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\enyeni\enyeni\bin\Debug\Ranorex.rxsettings
+2022-03-09 16:28:37.634|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 16:28:37.643| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 16:28:37.643|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-09 16:28:37.643| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 16:30:34.161|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 16:30:34.171| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 16:30:34.171|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-09 16:30:34.171| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 16:32:25.842|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 16:32:25.842| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 16:32:25.842|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-09 16:32:25.842| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 17:22:34.445|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 17:22:34.452| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 17:22:34.452|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-09 17:22:34.452| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 17:25:18.792|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 17:25:18.792| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 17:25:18.792|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-09 17:25:18.792| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 17:29:09.594|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 17:29:09.604| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 17:29:09.604|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-09 17:29:09.604| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 17:33:05.870|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 17:33:05.870| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 17:33:05.870|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\trendyol1\trendyol1\bin\Debug\.
+2022-03-09 17:33:05.870| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 17:41:47.280|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 17:41:47.280| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 17:41:47.292|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\enyeni\enyeni\bin\Debug\.
+2022-03-09 17:41:47.292| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 17:47:34.572|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 17:47:34.581| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 17:47:34.581|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-09 17:47:34.581| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\Ranorex.rxsettings
+2022-03-09 17:52:01.907|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 17:52:01.918| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 17:52:01.918|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-09 17:52:01.918| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\Ranorex.rxsettings
+2022-03-09 17:57:39.472|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 17:57:39.480| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 17:57:39.480|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-09 17:57:39.480| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\Ranorex.rxsettings
+2022-03-09 18:00:50.325|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 18:00:50.325| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 18:00:50.338|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-09 18:00:50.338| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\Ranorex.rxsettings
+2022-03-09 18:05:17.415|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 18:05:17.426| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 18:05:17.426|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-09 18:05:17.426| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\Ranorex.rxsettings
+2022-03-09 18:08:22.308|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 18:08:22.308| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 18:08:22.308|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-09 18:08:22.308| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\Ranorex.rxsettings
+2022-03-09 18:09:30.395|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 18:09:30.406| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 18:09:30.406|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-09 18:09:30.406| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\Ranorex.rxsettings
+2022-03-09 18:11:25.864|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 18:11:25.874| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 18:11:25.874|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-09 18:11:25.874| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\Ranorex.rxsettings
+2022-03-09 18:17:08.434|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 18:17:08.434| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 18:17:08.434|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\.
+2022-03-09 18:17:08.448| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\Ranorex.rxsettings
+2022-03-09 18:19:04.121|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 18:19:04.121| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 18:19:04.135|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\.
+2022-03-09 18:19:04.135| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\Ranorex.rxsettings
+2022-03-09 18:36:39.288|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 18:36:39.299| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 18:36:39.299|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\.
+2022-03-09 18:36:39.299| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\Ranorex.rxsettings
+2022-03-09 18:40:31.453|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 18:40:31.464| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 18:40:31.464|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\.
+2022-03-09 18:40:31.464| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\Ranorex.rxsettings
+2022-03-09 18:43:47.048|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 18:43:47.058| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 18:43:47.058|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\.
+2022-03-09 18:43:47.058| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\Ranorex.rxsettings
+2022-03-09 18:45:54.188|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 18:45:54.201| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 18:45:54.201|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\.
+2022-03-09 18:45:54.201| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\Ranorex.rxsettings
+2022-03-09 18:49:31.204|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 18:49:31.214| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 18:49:31.214|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\.
+2022-03-09 18:49:31.214| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\Ranorex.rxsettings
+2022-03-09 18:57:39.797|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 18:57:39.813| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 18:57:39.813|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\.
+2022-03-09 18:57:39.813| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\Ranorex.rxsettings
+2022-03-09 19:58:36.435|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 19:58:36.435| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 19:58:36.448|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\.
+2022-03-09 19:58:36.448| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\Ranorex.rxsettings
+2022-03-09 20:02:04.075|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 20:02:04.075| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 20:02:04.075|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\.
+2022-03-09 20:02:04.075| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\Ranorex.rxsettings
+2022-03-09 20:03:53.802|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 20:03:53.813| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 20:03:53.813|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\.
+2022-03-09 20:03:53.813| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\Ranorex.rxsettings
+2022-03-09 20:06:46.011|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 20:06:46.011| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 20:06:46.027|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\.
+2022-03-09 20:06:46.027| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\Ranorex.rxsettings
+2022-03-09 20:09:35.289|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 20:09:35.299| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 20:09:35.299|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\.
+2022-03-09 20:09:35.299| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\Ranorex.rxsettings
+2022-03-09 20:17:23.355|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 20:17:23.355| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 20:17:23.371|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\.
+2022-03-09 20:17:23.371| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\Ranorex.rxsettings
+2022-03-09 20:19:31.691|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 20:19:31.701| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 20:19:31.701|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\.
+2022-03-09 20:19:31.701| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\Ranorex.rxsettings
+2022-03-09 20:24:01.493|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 20:24:01.504| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 20:24:01.504|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\.
+2022-03-09 20:24:01.504| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\Ranorex.rxsettings
+2022-03-09 20:27:29.027|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 20:27:29.027| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 20:27:29.042|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\.
+2022-03-09 20:27:29.042| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\Ranorex.rxsettings
+2022-03-09 23:04:59.351|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 23:04:59.362| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 23:04:59.362|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-09 23:04:59.362| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-09 23:06:07.764|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 23:06:07.777| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 23:06:07.777|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-09 23:06:07.777| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-09 23:07:25.646|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 23:07:25.661| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 23:07:25.661|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-09 23:07:25.661| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-09 23:08:31.133|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 23:08:31.148| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 23:08:31.151|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-09 23:08:31.151| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-09 23:09:44.742|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 23:09:44.760| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 23:09:44.760|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-09 23:09:44.760| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-09 23:23:21.214|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 23:23:21.214| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 23:23:21.231|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-09 23:23:21.231| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-09 23:26:25.395|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 23:26:25.406| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 23:26:25.406|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-09 23:26:25.406| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-09 23:27:44.298|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 23:27:44.312| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 23:27:44.312|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-09 23:27:44.312| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-09 23:28:58.298|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 23:28:58.310| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 23:28:58.310|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-09 23:28:58.310| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-09 23:45:10.384|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 23:45:10.396| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 23:45:10.401|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-09 23:45:10.401| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-09 23:46:09.788|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 23:46:09.804| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 23:46:09.808|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-09 23:46:09.808| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-09 23:50:37.273|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 23:50:37.286| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 23:50:37.286|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-09 23:50:37.286| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-09 23:51:13.691|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 23:51:13.704| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 23:51:13.704|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-09 23:51:13.704| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-09 23:55:51.574|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-09 23:55:51.591| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-09 23:55:51.591|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-09 23:55:51.591| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-10 07:03:48.367|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 07:03:48.378| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 07:03:48.388|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 07:03:48.388| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-10 07:06:21.103|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 07:06:21.114| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 07:06:21.114|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 07:06:21.114| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-10 07:07:22.102|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 07:07:22.114| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 07:07:22.114|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 07:07:22.114| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-10 07:09:35.163|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 07:09:35.174| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 07:09:35.174|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 07:09:35.174| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-10 07:11:55.611|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 07:11:55.622| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 07:11:55.622|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 07:11:55.622| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-10 07:17:58.875|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 07:17:58.886| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 07:17:58.886|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 07:17:58.886| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-10 07:19:23.720|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 07:19:23.730| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 07:19:23.730|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 07:19:23.730| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\Ranorex.rxsettings
+2022-03-10 07:23:33.421|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 07:23:33.433| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 07:23:33.433|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 07:23:33.433| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 07:35:06.837|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 07:35:06.855| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 07:35:06.855|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 07:35:06.855| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 07:41:48.856|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 07:41:48.856| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 07:41:48.869|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 07:41:48.869| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 07:47:26.536|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 07:47:26.545| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 07:47:26.545|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario5\Scenario5\bin\Debug\.
+2022-03-10 07:47:26.545| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario5\Scenario5\bin\Debug\Ranorex.rxsettings
+2022-03-10 07:59:36.032|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 07:59:36.042| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 07:59:36.042|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario5\Scenario5\bin\Debug\.
+2022-03-10 07:59:36.042| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario5\Scenario5\bin\Debug\Ranorex.rxsettings
+2022-03-10 08:29:23.484|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 08:29:23.484| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 08:29:23.498|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\.
+2022-03-10 08:29:23.498| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\Ranorex.rxsettings
+2022-03-10 08:36:25.636|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 08:36:25.636| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 08:36:25.636|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\.
+2022-03-10 08:36:25.636| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\Ranorex.rxsettings
+2022-03-10 08:39:18.171|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 08:39:18.171| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 08:39:18.171|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\.
+2022-03-10 08:39:18.171| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\Ranorex.rxsettings
+2022-03-10 08:40:21.524|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 08:40:21.538| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 08:40:21.543|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\.
+2022-03-10 08:40:21.543| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\Ranorex.rxsettings
+2022-03-10 11:09:30.896|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 11:09:30.905| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 11:09:30.905|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\.
+2022-03-10 11:09:30.905| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\Ranorex.rxsettings
+2022-03-10 11:13:10.368|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 11:13:10.378| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 11:13:10.378|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\.
+2022-03-10 11:13:10.378| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\Ranorex.rxsettings
+2022-03-10 11:15:44.304|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 11:15:44.315| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 11:15:44.315|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\.
+2022-03-10 11:15:44.315| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\Ranorex.rxsettings
+2022-03-10 12:00:27.664|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 12:00:27.678| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 12:00:27.678|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\zafse\zafse\bin\Debug\.
+2022-03-10 12:00:27.682| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\zafse\zafse\bin\Debug\Ranorex.rxsettings
+2022-03-10 12:02:11.335|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 12:02:11.344| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 12:02:11.344|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\zafse\zafse\bin\Debug\.
+2022-03-10 12:02:11.344| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\zafse\zafse\bin\Debug\Ranorex.rxsettings
+2022-03-10 12:09:51.139|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 12:09:51.139| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 12:09:51.155|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\.
+2022-03-10 12:09:51.155| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 12:13:56.769|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 12:13:56.777| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 12:13:56.777|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\.
+2022-03-10 12:13:56.777| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 12:33:38.332|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 12:33:38.340| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 12:33:38.340|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-10 12:33:38.340| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 12:39:34.928|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 12:39:34.937| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 12:39:34.937|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\.
+2022-03-10 12:39:34.937| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 18:37:36.078|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 18:37:36.091| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 18:37:36.091|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-10 18:37:36.091| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 19:49:18.507|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 19:49:18.515| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 19:49:18.515|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-10 19:49:18.515| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 20:07:37.014|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 20:07:37.014| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 20:07:37.014|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-10 20:07:37.014| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 20:31:42.613|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 20:31:42.619| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 20:31:42.619|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\.
+2022-03-10 20:31:42.619| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 20:36:06.927|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 20:36:06.936| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 20:36:06.936|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\.
+2022-03-10 20:36:06.936| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 20:38:02.276|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 20:38:02.276| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 20:38:02.276|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\.
+2022-03-10 20:38:02.276| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 20:42:36.003|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 20:42:36.003| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 20:42:36.011|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\.
+2022-03-10 20:42:36.011| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 20:44:27.558|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 20:44:27.558| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 20:44:27.558|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\.
+2022-03-10 20:44:27.558| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:01:45.431|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 21:01:45.439| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:01:45.439|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\.
+2022-03-10 21:01:45.439| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:04:47.820|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 21:04:47.828| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:04:47.828|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\.
+2022-03-10 21:04:47.828| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:35:46.065|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 21:35:46.065| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:35:46.075|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\.
+2022-03-10 21:35:46.075| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:39:59.463|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 21:39:59.463| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:39:59.463|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 21:39:59.463| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:43:09.272|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 21:43:09.280| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:43:09.280|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 21:43:09.280| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:44:49.791|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 21:44:49.791| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:44:49.791|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 21:44:49.791| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:48:30.306|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 21:48:30.312| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:48:30.312|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 21:48:30.312| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:50:26.130|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 21:50:26.136| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 21:50:26.136|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 21:50:26.136| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 22:10:06.936|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 22:10:06.936| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 22:10:06.936|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-10 22:10:06.936| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 22:13:37.838|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 22:13:37.838| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 22:13:37.838|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario5\Scenario5\bin\Debug\.
+2022-03-10 22:13:37.838| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 22:17:50.932|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 22:17:50.932| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 22:17:50.932|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\.
+2022-03-10 22:17:50.932| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 22:24:51.927|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 22:24:51.936| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 22:24:51.936|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\.
+2022-03-10 22:24:51.936| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 23:58:39.241|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-10 23:58:39.251| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-10 23:58:39.251|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-10 23:58:39.251| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 00:01:02.432|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 00:01:02.432| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 00:01:02.449|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 00:01:02.449| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 00:03:12.113|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 00:03:12.123| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 00:03:12.123|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 00:03:12.123| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 00:08:25.510|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 00:08:25.510| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 00:08:25.510|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 00:08:25.510| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 00:09:45.888|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 00:09:45.888| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 00:09:45.904|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 00:09:45.904| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 00:13:10.001|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 00:13:10.011| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 00:13:10.011|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 00:13:10.011| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 00:23:32.609|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 00:23:32.609| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 00:23:32.609|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 00:23:32.609| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 00:24:49.705|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 00:24:49.716| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 00:24:49.716|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 00:24:49.716| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 11:29:37.604|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 11:29:37.604| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 11:29:37.604|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 11:29:37.604| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 11:31:05.457|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 11:31:05.468| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 11:31:05.468|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 11:31:05.468| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 11:31:54.114|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 11:31:54.122| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 11:31:54.122|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 11:31:54.122| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 11:34:23.798|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 11:34:23.808| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 11:34:23.808|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 11:34:23.808| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 11:38:09.727|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 11:38:09.735| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 11:38:09.735|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 11:38:09.735| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 11:40:30.494|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 11:40:30.494| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 11:40:30.494|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 11:40:30.494| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 11:43:08.929|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 11:43:08.936| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 11:43:08.936|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 11:43:08.936| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 11:57:44.080|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 11:57:44.088| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 11:57:44.088|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 11:57:44.088| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 12:02:21.745|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 12:02:21.745| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:02:21.745|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 12:02:21.745| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 12:05:14.700|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 12:05:14.700| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:05:14.700|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 12:05:14.700| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 12:11:16.495|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 12:11:16.495| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:11:16.495|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-11 12:11:16.495| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:14:19.561|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 12:14:19.561| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:14:19.561|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\.
+2022-03-11 12:14:19.561| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:18:31.641|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 12:18:31.641| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:18:31.641|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario3\Scenario3\bin\Debug\.
+2022-03-11 12:18:31.641| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:21:49.832|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 12:21:49.840| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:21:49.840|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario4\Scenario4\bin\Debug\.
+2022-03-11 12:21:49.840| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:25:06.993|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 12:25:07.001| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:25:07.001|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario5\Scenario5\bin\Debug\.
+2022-03-11 12:25:07.001| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:32:22.705|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 12:32:22.705| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:32:22.713|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\.
+2022-03-11 12:32:22.713| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario6\Scenario6\bin\Debug\Ranorex.rxsettings
+2022-03-11 12:35:03.425|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 12:35:03.435| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:35:03.435|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\.
+2022-03-11 12:35:03.435| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:36:50.328|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 12:36:50.328| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:36:50.328|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario7\Scenario7\bin\Debug\.
+2022-03-11 12:36:50.328| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:49:28.346|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 12:49:28.354| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:49:28.354|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-11 12:49:28.354| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:52:03.740|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 12:52:03.749| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:52:03.749|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-11 12:52:03.749| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:57:07.605|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 12:57:07.605| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 12:57:07.605|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario2\Scenario2\bin\Debug\.
+2022-03-11 12:57:07.605| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 15:55:46.514|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 15:55:46.514| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 15:55:46.514|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-11 15:55:46.514| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 16:00:33.184|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 16:00:33.184| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 16:00:33.184|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-11 16:00:33.184| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 16:01:12.337|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Program Files (x86)\Ranorex\Studio\bin\.
+2022-03-11 16:01:12.345| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
+2022-03-11 16:01:12.345|DEBUG|Ranorex.Core.Config.SolutionSettingsContext|Search solution config file in C:\Users\Zafer(Dad)\Documents\Ranorex\RanorexStudio Projects\Scenario1\Scenario1\bin\Debug\.
+2022-03-11 16:01:12.345| INFO|Ranorex.Core.Config.SolutionSettingsContext|Register solution config file (none)
